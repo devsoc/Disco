@@ -1,2 +1,3 @@
 # Disco
-The last guide you need to refer, to get started to code💃
+
+The ultimate guide from becoming a apprentice to a master in CS! 💃

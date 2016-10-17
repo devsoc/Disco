@@ -1,0 +1,22 @@
+{
+  "name": "disco",
+  "version": "1.0.0",
+  "description": "The ultimate guide from becoming a apprentice to a master in CS!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsoc/Disco.git"
+  },
+  "keywords": [
+    "Guide",
+    "Computer",
+    "Science",
+    "Programming"
+  ],
+  "author": "Team DevSoc",
+  "license": "MIT",
+  "ignored_packages": ["Markdown"],
+  "bugs": {
+    "url": "https://github.com/devsoc/Disco/issues"
+  },
+  "homepage": "https://github.com/devsoc/Disco#readme"
+}
