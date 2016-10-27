@@ -6,7 +6,7 @@ You're welcome to contribute to the development of this project to help us expan
 
 ### Adding new guidelines
 
-For adding a new guideline in the scope of this repository, create seperate branch named by `folder-filename`, where the folder refers to the enclosing folder where your file is to added. All files must be standard markdown(`.md`) files.
+For adding a new guideline in the scope of this repository, create seperate branch named by `new_addition-filesadded`, where new addition will be a short name of your PR & filesadded has it's usual meaning. All files must be standard markdown(`.md`) files.
 
 ### Improving existing guidelines
 
