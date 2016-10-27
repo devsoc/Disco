@@ -1,6 +1,6 @@
 JavaScript (JS) is a lightweight, interpreted, programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as node.js and Apache CouchDB. JS is a prototype-based, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
 
-- Mozilla Developer Network (MDN)
+t)Mozilla Developer Network (MDN)
 
 # Resources
 
@@ -39,4 +39,4 @@ JavaScript (JS) is a lightweight, interpreted, programming language with first-c
 3. [SIMD Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/SIMD_types)
 4. [Memory Management](https://developer.mozilla.org/en-US/docs/Web/Java(Script/Memory_Management)
 5. [Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
-6. [Must Know About JS](https://www.livecoding.tv/learn/javascript/expert/)
+6. [Must Know About JS](https://www.livecoding.tv/learn/javascript/expert)
