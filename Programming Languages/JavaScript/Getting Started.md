@@ -40,3 +40,9 @@ JavaScript (JS) is a lightweight, interpreted, programming language with first-c
 4. [Memory Management](https://developer.mozilla.org/en-US/docs/Web/Java(Script/Memory_Management)
 5. [Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
 6. [Must Know About JS](https://www.livecoding.tv/learn/javascript/expert)
+
+# Reddit Threads
+
+1. [/r/javascript](https://www.reddit.com/r/javascript/)
+2. [/r/learnjavascript](https://www.reddit.com/r/learnjavascript/)
+3. [/r/webdev](https://www.reddit.com/r/webdev/)
