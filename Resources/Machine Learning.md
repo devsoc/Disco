@@ -2,7 +2,7 @@ Machine learning is the subfield of computer science that "gives computers the a
 
 > Wikipedia
 
-# Resources
+# Blogs
 
 * [DataTau](http://www.datatau.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
@@ -29,7 +29,7 @@ Machine learning is the subfield of computer science that "gives computers the a
 
 # Reddit Threads
 
-* TBA soon
+* r/MachineLearning
 
 # Books
 
