@@ -36,6 +36,7 @@ Machine learning is the subfield of computer science that "gives computers the a
 * [Programming Collective Intelligence: Building Smart Web 2.0 Applications](https://www.amazon.com/dp/0596529325?tag=inspiredalgor-20)
 * [Mastering Machine Learning with Sklearn](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-scikit-learn)
 * [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714/ref=pd_sim_14_4?ie=UTF8&dpID=51cwV1i8S6L&dpSrc=sims&preST=_AC_UL160_SR121%2C160_&refRID=1G6PPENNCQK9S9N0VBVB)
+* [Reinforcement Learning: An Introduction](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
 
 # Project Ideas
 
